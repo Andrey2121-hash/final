@@ -1,0 +1,67 @@
+.conteiner {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.imeges {
+    width: 644px;
+    height: 337px;
+}
+
+.slider {
+    width: 700px;
+}
+
+.img {
+    width: 644px;
+    height: 337px;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.sp {
+    height: 337px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.text {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+    color: darkcyan;
+    text-transform: uppercase;
+
+}
+
+/* 
+.slick-arrow {
+    position: absolute;
+    top: 161px;
+    left: -101px;
+    width: 78px;
+    padding: 8px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+
+.slick-next {
+    right: 100px;
+    background: red;
+    position: absolute;
+    top: 161px;
+    position: absolute;
+    top: 161px;
+    right: -101px;
+    width: 78px;
+    padding: 8px;
+    font-size: 15px;
+    text-transform: uppercase;
+} */
